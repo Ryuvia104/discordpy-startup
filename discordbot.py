@@ -10,7 +10,7 @@ from discord.ext import commands
 
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NTUzMDgwNTA0NTQzMzQ2NzA2.XICmXA.zpJ7NO5zcuWnv9iMOhXRNnej_OA'
+TOKEN = 'NTUzMDgwNTA0NTQzMzQ2NzA2.XICmXA.W6oZ9w1V4DPq3BVyUBQ9-rjaYv8'
 
 # 接続に必要なオブジェクトを生成
 client = discord.Client()
